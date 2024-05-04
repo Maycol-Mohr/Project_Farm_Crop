@@ -19,4 +19,8 @@
 * Criação do CRUD - casos de uso para cada entidade;
 * Banco H2;
 * Configuração de perfil(dev - test - prod) em applicacion.properties;
+* IntelliJ IDE;
+* Git;
+* Hibernate;
+* Maven;
 * etc.
