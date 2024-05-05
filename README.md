@@ -29,3 +29,23 @@
 
   ![image](https://github.com/Maycol-Mohr/Project_Farm_Crop/assets/80767489/a68c7a41-37cc-43f0-8ddc-fd38a3ac8cda)
 
+  Além destas entidades o projeto conta com as entidades Person (Pessoa) e Role (Papel ou Perfil), para os trabalhos de autenticação e autorização, como por exemplo, o token e permissões a nível de usuários.
+
+  Atributos da Entidade (Classe) Person:
+
+  - id;
+  - username;
+  - password;
+  - role;
+ 
+  Atributo da entidade Role, que é um tipo enumerado:
+
+  - name;
+
+  Os tipos enumerados cadastrados em Role neste projeto são:
+
+  - ADMIN;
+  - MANAGER;
+  - USER;
+  
+
