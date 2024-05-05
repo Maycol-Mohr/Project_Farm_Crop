@@ -24,3 +24,8 @@
 * Hibernate;
 * Maven;
 * etc.
+
+  # Diagrama do Projeto:
+
+  ![image](https://github.com/Maycol-Mohr/Project_Farm_Crop/assets/80767489/a68c7a41-37cc-43f0-8ddc-fd38a3ac8cda)
+
